@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CelsonApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34aa7a172ca31098ed8cdb0fb0b2ef3022f9b3e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("CelsonApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CelsonApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
